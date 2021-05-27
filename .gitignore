@@ -127,3 +127,4 @@ books/.DS_Store
 .idea/*
 
 .vscode/
+/neuralcoref/
