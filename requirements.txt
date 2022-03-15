@@ -46,7 +46,7 @@ nbformat==5.1.3
 nest-asyncio==1.5.1
 networkx==2.5.1
 -e git+https://github.com/huggingface/neuralcoref.git@0cff3c94e6019f6bee1004b58a3f0cd59c806fcf#egg=neuralcoref
-numpy==1.20.2
+numpy==1.21.0
 opencv-python==4.5.2.52
 packaging==20.9
 pandas==1.2.4
